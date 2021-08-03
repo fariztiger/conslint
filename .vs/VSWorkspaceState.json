@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\css",
+    "\\public\\js",
+    "\\public\\json",
+    "\\src",
+    "\\src\\components",
+    "\\src\\configs",
+    "\\src\\modules"
+  ],
+  "SelectedNode": "\\src\\modules\\binance.js",
+  "PreviewInSolutionExplorer": false
+}
